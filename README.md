@@ -55,4 +55,4 @@ pyplot.show()
 
 
 ## Result:
-Thus the python program to implement the multi class classification was implemented successfully.
+Thus the python program to implement the multi class classification was implemented successfully. 
